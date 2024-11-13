@@ -1,0 +1,82 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim_server (11/11/2024 10:23:24 PM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2022.3.50.12835711
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 5 plugins to load
+[Warning:   BepInEx] Skipping [Crop Utils 1.5.1] because of process filters (valheim.exe)
+[Info   :   BepInEx] Loading [AzuAutoStore 3.0.4]
+[Info   :   BepInEx] Loading [AzuCraftyBoxes 1.5.6]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.1.14]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] 11/11/2024 23:22:34: Set background loading budget to Low
+
+[Warning: Unity Log] 11/11/2024 23:22:34: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Warning: Unity Log] 11/11/2024 23:22:34: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Info   : Unity Log] 11/11/2024 23:22:34: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+
+[Info   : Unity Log] 11/11/2024 23:22:34: Set background loading budget to Normal
+
+[Info   : Unity Log] 11/11/2024 23:22:38: Set background loading budget to High
+
+[Info   : Unity Log] 11/11/2024 23:23:18: Set background loading budget to Low
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] 11/11/2024 23:23:20: Missing audio clip in music respawn
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Get create world Dedicated
+
+[Info   : Unity Log] 11/11/2024 23:23:20:  creating
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Creating first autobackup
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Saving backup at: Dedicated_backup_auto-20241111232320
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Using environment steamid 892970
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Using steam APPID:892970
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Server ID 90071992547409920
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Authentication:k_ESteamNetworkingAvailability_Waiting
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Steam game server initialized
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Using default prefs
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Valheim version: 0.219.14 (network version 32)
+
+[Info   : Unity Log] Trying to set graphic mode to 'Custom'
+[Info   : Unity Log] Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
+[Info   : Unity Log] Graphic mode 'Custom' applied!
+[Info   : Unity Log] 11/11/2024 23:23:20: Worldgenerator version setup:2
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Console: Valheim 0.219.14 (network version 32)
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Console: 
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Console: type "help" - for commands
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Console: 
+
+[Info   : Unity Log] 11/11/2024 23:23:20: Render threading mode:SingleThreaded
+
+[Info   : Unity Log] 11/11/2024 23:23:22: Steam manager on destroy
+

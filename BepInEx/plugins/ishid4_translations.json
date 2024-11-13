@@ -1,0 +1,15 @@
+{
+  "mod_betterarchery_test": "Loaded",
+  "mod_betterarchery_tombstone_space_error": "Not enough space in inventory, Items Dropped:",
+
+  "mod_betterarchery_quiver_equipped_error": "You can't drop the quiver while equipped.",
+  "mod_betterarchery_quiver_wrong_item_error": "You can not put this inside of the quiver.",
+  "mod_betterarchery_quiver_transfer_chest_error": "Unequip the item.",
+  "mod_betterarchery_quiver_item_swap_error": "Can't swap this item.",
+  "mod_betterarchery_quiver_swap_chest_error": "Unequip the item before moving it.",
+  "mod_betterarchery_quiver_drop_outside_error": "Unequip the quiver first.",
+  "mod_betterarchery_quiver_unequip_error": "Empty the quiver first.",
+
+  "mod_betterarchery_leather_quiver_name": "Leather Quiver",
+  "mod_betterarchery_leather_quiver_description": "An arrow holder made with leathers. Gives 3 extra slots for your lovely arrows."
+}
