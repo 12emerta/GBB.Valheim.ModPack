@@ -25,6 +25,8 @@ These are the following mods used within this mod pack:
     * Better & easier crop planting & picking.
 * [Equipment And Quick Slots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots/)
     * Give equipped items their own dedicated inventory slots, plus three more hotkey-able quick slots.
+* [Groups (Valheim+)](https://github.com/12emerta/Groups-Valheim-Plus)
+    * Allows Groups - used for Whacky Epic MMO XP sharing.
 * [Plant Everything](https://thunderstore.io/c/valheim/p/Advize/PlantEverything/)
     * Allows your cultivator to plant berry bushes, thistle, dandelions, mushrooms, previously unavailable tree types, and other decorative flora.
 * [Resin Guard](https://thunderstore.io/c/valheim/p/Azumatt/ResinGuard/)
