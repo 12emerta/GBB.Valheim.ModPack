@@ -27,6 +27,8 @@ These are the following mods used within this mod pack:
     * Give equipped items their own dedicated inventory slots, plus three more hotkey-able quick slots.
 * Groups (Valheim+)
     * Allows Groups - used for Whacky Epic MMO XP sharing.
+* [InstantMonsterDropFork](https://thunderstore.io/c/valheim/p/mchangrh/InstantMonsterDropFork/)
+    * Allows monsters to drop loot instantly instead of waiting some time.
 * [Plant Everything](https://thunderstore.io/c/valheim/p/Advize/PlantEverything/)
     * Allows your cultivator to plant berry bushes, thistle, dandelions, mushrooms, previously unavailable tree types, and other decorative flora.
 * [Resin Guard](https://thunderstore.io/c/valheim/p/Azumatt/ResinGuard/)
